@@ -1,0 +1,5 @@
+{
+  "layout": "news-article.njk",
+  "tags": "news",
+  "thumbnail_120w": "/images/no-picture.png"
+}
