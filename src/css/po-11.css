@@ -24,9 +24,19 @@ h6 {
   color: #555555;
 }
 
+header {
+  margin-bottom: 2.5rem;
+}
 header a.back {
   display: block;
   margin-bottom: 2rem;
+}
+main {
+  min-height: 500px;
+}
+footer {
+  /* background-color: #268889;
+  color: #fff; */
 }
 
 /* News Page - article links */
