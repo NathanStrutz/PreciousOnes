@@ -27,16 +27,17 @@ Precious Ones was born from a deep desire to show these beautiful women their wo
 > We make many pads for the community! Thank you for everything!
 > <cite>--Evelyn Naklaigoye</cite>
 
+# The Pattern
+
+Part of our journey into women's education has been the creation of a simple pattern for a high quality, reusable, women's sanitary towel.
+
+#### [📃 Download the pattern PDF](resources/precious-ones-kit-cutting-guide-06-27-19.pdf)
+
 <style>
 .bg-womenseducation-1 {
   background-image: url("/images/womenseducation-1.jpg");
 }
 .bg-womenseducation-2 {
   background-image: url("/images/womenseducation-2.jpg");
-}
-
-p .opener {
-  font-family: "Dancing Script", cursive;
-  font-size: 1.8rem;
 }
 </style>

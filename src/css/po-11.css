@@ -88,3 +88,8 @@ blockquote cite {
   display: block;
   font-style: italic;
 }
+
+p span.opener {
+  font-family: "Dancing Script", cursive;
+  font-size: 1.8rem;
+}
