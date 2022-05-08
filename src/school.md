@@ -4,7 +4,7 @@ title: Children Shalom Academy in Kachonga, Uganda
 layout: "page.njk"
 ---
 
-<div class="container-popout bg-school-5"><div></div></div>
+<div class="container-popout-image bg-school-5"></div>
 
 Our dear friend Shannie in Uganda, the Director of Precious Ones, has been running a school for years for the orphans and the poor in her village. When I met her she was paying for the teacher's salaries out of her own salary (she works for a church in the city) and running the school out of a garage. Some land was donated to her and she would literally buy a brick every time she earned enough money to buy one. She knew one day God would provide a school building! Talk about faith!! We were blessed to be able to help build the school.
 
@@ -44,26 +44,7 @@ Will you help us keep the school open?
 </div>
 
 <style>
-.container-popout {
-  width: 99.4vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
 .bg-school-5 {
-    background-image: url("/images/school-5.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    min-height: 500px;
-}
-.opaline {
-    padding-top: 3em;
-    padding-bottom: 3em;
-    background-color: rgba(38, 136, 137, 0.85);
-    color: #fff;
-    /* background-color: rgba(128, 215, 247, 0.85); */
+  background-image: url("/images/school-5.jpg");
 }
 </style>

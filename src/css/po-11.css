@@ -64,3 +64,27 @@ footer {
 .news-thumbnail {
   width: 120px;
 }
+
+/* Programs pages */
+.container-popout-image {
+  width: 99.4vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin: 2rem -50vw 2rem -50vw;
+  /* and the image part */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+}
+.container-popout-image .opaline {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background-color: rgba(38, 136, 137, 0.85);
+  color: #fff;
+}
+blockquote cite {
+  display: block;
+  font-style: italic;
+}
