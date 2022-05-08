@@ -3,12 +3,12 @@ title: Give
 layout: "page.njk"
 ---
 
-Donate your money to Precious Ones Ministries
+Precious Ones Ministries does take monetary donations. As you give, please consider a monthly giving amout, if possible.
 
 Precious Ones Ministries gives 100% of all contributions straight to these Precious people. We are an all-volunteer organization and we cover
 all operating costs and expenses to make sure every dollar goes as far as it can!
 
-Currently, the only way to give financially to Precious Ones Ministries is through our Paypal.
+Currently, the best way to give financially to Precious Ones Ministries is through our Paypal.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="text-center">
     <input type="hidden" name="cmd" value="_s-xclick" />
