@@ -49,6 +49,10 @@
             <div class="col-md-10">
               &copy; 2022 Precious Ones Ministries.<br />Precious Ones is a 501(c)(3) nonprofit organization based in
               South Carolina.
+              {% if attribution %}
+              <br/>
+              Photo attribution: {{ attribution }}
+              {% endif %}
             </div>
             <div class="col text-end">
               <a href="mailto:PreciousOnesMinistries@gmail.com">📧 Email Us</a>
