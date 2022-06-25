@@ -15,7 +15,7 @@ pagination:
   <em class="small date">{{ article.date | newsDate }}</em>
 
   <article class="news-link-article" onclick="location.href='{{ article.url }}';">
-    <img src="{{ article.data.thumbnail_120w }}" class="news-thumbnail" />
+    <img src="/images/news/{{ article.data.thumbnail_120w }}" class="news-thumbnail" />
     <div class="news-link-text">
       <a href="{{ article.url }}">{{ article.data.title }}</a>
       <em>{{ article.data.description }}</em>
