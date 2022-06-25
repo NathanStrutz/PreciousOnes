@@ -46,7 +46,7 @@ Precious ones is coming alongside women to embrace independence, know God's love
 
 <style>
 .bg-homepage {
-  background-image: url("/images/mightyboybrian-6835016251_1080.jpg");
+  background-image: url("/images/homepage_girllookingback.jpg");
   background-position: top right;
 }
 </style>
