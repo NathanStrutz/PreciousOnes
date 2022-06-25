@@ -3,7 +3,7 @@ const Image = require("@11ty/eleventy-img");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css/*.css");
   eleventyConfig.addPassthroughCopy("src/js/*.js");
-  eleventyConfig.addPassthroughCopy("src/images/*");
+  eleventyConfig.addPassthroughCopy("src/images/**/*");
   eleventyConfig.addPassthroughCopy("src/resources/*");
   eleventyConfig.setWatchJavaScriptDependencies(true);
 
