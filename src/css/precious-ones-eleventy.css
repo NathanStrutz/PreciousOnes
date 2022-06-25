@@ -23,6 +23,9 @@ h6 {
   line-height: 1.1;
   color: #555555;
 }
+p+h1, blockquote+h1 {
+  padding-top:2rem;
+}
 
 header {
   margin-bottom: 2.5rem;
