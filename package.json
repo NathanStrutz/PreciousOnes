@@ -1,6 +1,6 @@
 {
-	"name": "po-11",
-	"version": "1.0.0",
+	"name": "precious-ones",
+	"version": "2.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -10,6 +10,7 @@
 	"author": "",
 	"license": "ISC",
 	"devDependencies": {
-		"@11ty/eleventy": "^1.0.1"
+		"@11ty/eleventy": "^1.0.1",
+		"@11ty/eleventy-img": "^2.0.1"
 	}
 }
