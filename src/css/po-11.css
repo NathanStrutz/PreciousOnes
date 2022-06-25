@@ -44,7 +44,7 @@ footer {
   display: flex;
   flex-direction: column;
   border-bottom: 1px solid #ddd;
-  padding: 1rem;
+  padding: 0 1rem 1rem;
 }
 .news-link-article {
   display: flex;
