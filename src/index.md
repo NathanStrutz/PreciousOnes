@@ -12,9 +12,11 @@ attribution: Brian Wolfe
 
 ### Our Mission
 
-Empowering women through education: our classes on sewing, feminine health, and business training are helping women to see their value and worth.
+Through women’s education, sewing opportunities, feminine health and business training, we are empowering women to change their lives, families and their communities.
 
-Precious ones is coming alongside women to embrace independence, know God's love, and create communities that value one another and their sisters around the world.
+Through children’s education we will change the trajectory of generations!
+
+We are seeing the transformative power of God’s love and the hope that comes with having an education!
 
 </div>
 <div class="col-4">
