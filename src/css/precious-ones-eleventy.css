@@ -9,7 +9,7 @@ body {
   font-family: "EB Garamond", serif;
   font-size: 16px;
   line-height: 2.028571429;
-  color: #555555;
+  color: #333333;
   background-color: #ffffff;
 }
 h1,
@@ -21,7 +21,7 @@ h6 {
   font-family: "Dancing Script", cursive;
   font-weight: 500;
   line-height: 1.1;
-  color: #555555;
+  color: #333333;
 }
 p+h1, blockquote+h1 {
   padding-top:2rem;

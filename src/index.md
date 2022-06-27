@@ -9,7 +9,6 @@ attribution: Brian Wolfe
 <div class="row">
 <div class="col">
 
-
 ### Our Mission
 
 Through women’s education, sewing opportunities, feminine health and business training, we are empowering women to change their lives, families and their communities.
@@ -22,7 +21,6 @@ We are seeing the transformative power of God’s love and the hope that comes w
 <div class="col-4">
 
 ### Recent News
-
 
 {% for article in collections.topNews %}
 
@@ -44,7 +42,6 @@ We are seeing the transformative power of God’s love and the hope that comes w
 
 </div>
 </div>
-
 
 <style>
 .bg-homepage {
