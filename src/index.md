@@ -8,7 +8,7 @@ attribution: Brian Wolfe
 <div class="container-popout-image bg-homepage"></div>
 
 <div class="row">
-<div class="col ms-4">
+<div class="col ms-md-4">
 
 ### What is Precious Ones?
 
@@ -27,7 +27,7 @@ Through children's education we will change the trajectory of generations!
 We are seeing the transformative power of God's love and the hope that comes with having an education!
 
 </div>
-<div class="col-md-4 col-lg-5">
+<div class="col-md-5 col-lg-4">
 
 ### Recent News
 
