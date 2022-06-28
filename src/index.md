@@ -10,9 +10,17 @@ attribution: Brian Wolfe
 <div class="row">
 <div class="col">
 
-### Our Mission
+### What is Precious Ones?
 
-Through women’s education, sewing opportunities, feminine health and business training, we are empowering women to change their lives, families and their communities.
+Precious Ones is a non-profit organization dedicated to working with communities to remind women of their worth and encourage sustainability. We are committed to make a difference through
+
+- Women’s education
+- Sewing opportunities
+- Feminine health
+- Business training
+- Children's education
+
+We are empowering women to change their lives, families and their communities for generations!
 
 Through children’s education we will change the trajectory of generations!
 
