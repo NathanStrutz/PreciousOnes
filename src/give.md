@@ -15,7 +15,7 @@ all operating costs and expenses to make sure every dollar goes as far as it can
 The best way to give financially to Precious Ones Ministries is through our Paypal.
 
   </div>
-  <div class="col" id="giving-page-paypal-link">
+  <div class="col-md-6" id="giving-page-paypal-link">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="text-center">
         <input type="hidden" name="cmd" value="_s-xclick" />
         <input type="hidden" name="hosted_button_id" value="CHDH3PCYV4NV8" />
