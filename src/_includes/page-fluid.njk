@@ -1,0 +1,11 @@
+---
+layout: base.njk
+---
+
+{% if title %}
+<header class="container">
+  <h1>{{ title }}</h1>
+</header>
+{% endif %}
+
+<div class="container-fluid">{{ content | safe }}</div>

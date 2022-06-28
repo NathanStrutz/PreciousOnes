@@ -1,20 +1,20 @@
 ---
 title: Precious Ones Ministries
 tabTitle:
-layout: "page.njk"
+layout: "page-fluid.njk"
 attribution: Brian Wolfe
 ---
 
 <div class="container-popout-image bg-homepage"></div>
 
 <div class="row">
-<div class="col">
+<div class="col ms-4">
 
 ### What is Precious Ones?
 
 Precious Ones is a non-profit organization dedicated to working with communities to remind women of their worth and encourage sustainability. We are committed to make a difference through
 
-- Women’s education
+- Women's education
 - Sewing opportunities
 - Feminine health
 - Business training
@@ -22,12 +22,12 @@ Precious Ones is a non-profit organization dedicated to working with communities
 
 We are empowering women to change their lives, families and their communities for generations!
 
-Through children’s education we will change the trajectory of generations!
+Through children's education we will change the trajectory of generations!
 
-We are seeing the transformative power of God’s love and the hope that comes with having an education!
+We are seeing the transformative power of God's love and the hope that comes with having an education!
 
 </div>
-<div class="col-4">
+<div class="col-md-4 col-lg-5">
 
 ### Recent News
 
