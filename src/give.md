@@ -1,5 +1,6 @@
 ---
 title: Give
+tabTitle: Giving
 layout: "page.njk"
 ---
 

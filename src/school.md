@@ -1,5 +1,6 @@
 ---
 title: Children Shalom Academy in Kachonga, Uganda
+tabTitle: "| Our School"
 # Kachonga Parish, Mazimasa Subcounty, Butaleja District Of Uganda
 layout: "page.njk"
 ---

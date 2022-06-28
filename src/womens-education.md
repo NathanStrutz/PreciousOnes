@@ -1,5 +1,6 @@
 ---
 title: Women's Education Program
+tabTitle: "| Women's Education Programs"
 layout: "page.njk"
 attribution: ours, and Trust for Africas Orphans
 ---

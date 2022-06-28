@@ -1,5 +1,6 @@
 ---
 title: Precious Ones Ministries
+tabTitle:
 layout: "page.njk"
 attribution: Brian Wolfe
 ---

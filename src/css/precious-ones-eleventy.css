@@ -6,12 +6,14 @@ nav.navbar + * {
 }
 
 body {
+  font: 1.2rem/1.5em var(--bs-font-sans-serif);
   font-family: "EB Garamond", serif;
-  font-size: 16px;
-  line-height: 2.028571429;
+  /* font-size: 18px; */
+  /* line-height: 2.028571429; */
   color: #333333;
   background-color: #ffffff;
 }
+
 h1,
 h2,
 h3,
@@ -19,12 +21,13 @@ h4,
 h5,
 h6 {
   font-family: "Dancing Script", cursive;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.1;
   color: #333333;
 }
-p+h1, blockquote+h1 {
-  padding-top:2rem;
+p + h1,
+blockquote + h1 {
+  padding-top: 2rem;
 }
 
 header {
@@ -47,7 +50,7 @@ footer {
   display: flex;
   flex-direction: column;
   border-bottom: 1px solid #ddd;
-  padding: 0 1rem 1rem;
+  padding: 0 1rem 1rem 0;
 }
 .news-link-article {
   display: flex;
@@ -55,6 +58,8 @@ footer {
   padding: 1rem;
   cursor: pointer;
   border-radius: 20px;
+  /* font-size: 1.4rem;
+  line-height: 1.4rem; */
 }
 .news-link-article:hover {
   background-color: #fcfcfc;
@@ -66,6 +71,7 @@ footer {
 }
 .news-thumbnail {
   width: 120px;
+  object-fit: cover;
 }
 
 /* Programs pages */

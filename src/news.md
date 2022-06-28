@@ -1,5 +1,6 @@
 ---
 title: News
+tabTitle: News Archive
 layout: "page.njk"
 article.data.thumbnail_120w: "no-picture.png"
 pagination:
