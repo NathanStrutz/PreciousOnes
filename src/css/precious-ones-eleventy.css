@@ -73,6 +73,9 @@ footer {
   width: 120px;
   object-fit: cover;
 }
+article img {
+  max-width: 100%;
+}
 
 /* Programs pages */
 .container-popout-image {
