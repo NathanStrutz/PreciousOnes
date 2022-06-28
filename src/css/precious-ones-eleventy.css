@@ -21,7 +21,7 @@ h4,
 h5,
 h6 {
   font-family: "Dancing Script", cursive;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.1;
   color: #333333;
 }
@@ -86,6 +86,11 @@ footer {
   background-size: cover;
   background-position: center;
   min-height: 500px;
+}
+@media (max-width: 768px) {
+  .container-popout-image {
+    min-height: 350px;
+  }
 }
 .container-popout-image .opaline {
   padding-top: 3em;

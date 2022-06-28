@@ -55,6 +55,6 @@ We are seeing the transformative power of God’s love and the hope that comes w
 <style>
 .bg-homepage {
   background-image: url("/images/homepage_girllookingback.jpg");
-  background-position: top right;
+  background-position: top 10% right 25%;
 }
 </style>
