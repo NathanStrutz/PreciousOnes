@@ -26,7 +26,7 @@ pagination:
 
 {% endfor %}
 
-<nav class="mt-3 aria-label="News archive navigation">
+<nav class="mt-3" aria-label="News archive navigation">
   <ul class="pagination justify-content-end">
 {% if pagination.previousPageLink %}
   <li class="page-item">
